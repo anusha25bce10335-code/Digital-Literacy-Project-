@@ -16,6 +16,6 @@ This repository contains my Digital Literacy project submitted for CSE0001 at VI
 - **Task 5:** Wrote a cybercrime case study on UPI fraud with a prevention checklist
 
 Links
-- Google Form Quiz: [paste your form link here]
-- LinkedIn: [paste your LinkedIn link here]
-- Kaggle: [paste your Kaggle link here]
+- Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSeuiG6LW6WqjbpY9xzZVtWZ__gEIJ7gjKDexLzdq3he2Ui3jw/viewform?usp=publish-editor
+
+
