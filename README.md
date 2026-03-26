@@ -11,7 +11,7 @@ This repository contains my Digital Literacy project submitted for CSE0001 at VI
 
 - **Task 1:** Created a digital literacy infographic using Canva
 - **Task 2:** Set up profiles on GitHub, LinkedIn, and Kaggle
-- **Task 3:** Completed a HackerRank challenge and built a Google Form quiz
+- **Task 3:** Completed a CodeChef challenge and built a Google Form quiz
 - **Task 4:** Drafted professional emails and a social media etiquette checklist
 - **Task 5:** Wrote a cybercrime case study on UPI fraud with a prevention checklist
 
