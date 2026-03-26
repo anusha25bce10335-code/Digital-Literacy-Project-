@@ -18,5 +18,6 @@ This repository contains my Digital Literacy project submitted for CSE0001 at VI
 Links
 - Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSeuiG6LW6WqjbpY9xzZVtWZ__gEIJ7gjKDexLzdq3he2Ui3jw/viewform?usp=publish-editor
 - Github:https://github.com/anusha25bce10335-code
-
+-Kaggle :https://www.kaggle.com/anushatandon
+-Stack Overflow:https://stackoverflow.com/users/32539088/anusha-tandon-25bce10335
 
